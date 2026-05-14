@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AliceLaBaguette",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "Je suis tout à fait normal",
-        "Triple monstre",
+        "Ma maman c'est alice et c'est la meilleure!",
         "En mode afk ouuu"
       ]
     },
